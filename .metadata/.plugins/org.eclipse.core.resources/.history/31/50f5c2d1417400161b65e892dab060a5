@@ -1,0 +1,5 @@
+package com.bdi.cards.mappers;
+
+public class RecordMapper {
+
+}

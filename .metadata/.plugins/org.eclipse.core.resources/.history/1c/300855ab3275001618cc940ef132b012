@@ -1,0 +1,5 @@
+package com.bdi.maxTemp;
+
+public class MaxTempReducer {
+
+}

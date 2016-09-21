@@ -1,0 +1,9 @@
+package com.bdi.maxTemp;
+
+import org.apache.hadoop.fs.Path;
+import org.apache.hadoop.io.TextWritable;
+import org.apache.hadoop.io.IntWritable;
+
+public class MaxTemperature {
+
+}
